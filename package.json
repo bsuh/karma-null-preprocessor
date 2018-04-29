@@ -1,0 +1,8 @@
+{
+  "name": "karma-null-preprocessor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Brian Suh",
+  "repository": "bsuh/karma-null-preprocessor",
+  "license": "MIT"
+}
